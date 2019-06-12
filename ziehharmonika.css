@@ -23,6 +23,7 @@
 	content: attr(data-prefix);
 	font-size: 18px;
 	margin-right: 9px;
+	display: none;
 }
 .ziehharmonika h3.alignLeft {
 	padding-left: 35px;
