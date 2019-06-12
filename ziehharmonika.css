@@ -1,18 +1,26 @@
 /* @author Tim himself */
 
 .ziehharmonika h3 {
-    background: #ffffff;
-    color: #000;
+    background: #fff;
     text-align: left;
-    border-radius: 4px;
-    padding: 0px 10px;
+    border-radius: 5px;
+    padding: 15px 15px;
     cursor: pointer;
     margin-top: 0;
     margin-bottom: 9px;
-    padding-right: 40px;
+    padding-left: 10px;
     transition: 0.25s all;
     position: relative;
-    border: 1px solid #ccc;
+    margin-top: 10px;
+    line-height: 1.42857143;
+    color: rgb(60,75,123);
+    font-family: Cairo;
+    font-weight: 700;
+    font-size: 15px;
+    border-bottom: none;
+    margin-bottom: 6px;
+    box-shadow: 0 1px 9px -6px;
+    font-family: 'Hind Guntur', sans-serif;
 }
 .ziehharmonika h3.active {
 	margin-bottom: 21px;
