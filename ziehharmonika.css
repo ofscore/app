@@ -15,7 +15,8 @@
 }
 .ziehharmonika h3.active {
 	margin-bottom: 21px;
-	background: #009640;
+        background: #e0e0e0;
+        color: #000;
 }
 .ziehharmonika h3::before {
 	content: attr(data-prefix);
@@ -48,7 +49,7 @@
 }
 .ziehharmonika .active .arrowDown {
 	bottom: -13px;
-	border-color: #009641 transparent transparent transparent;
+	border-color: #e0e0e0 transparent transparent transparent;
 	opacity: 1;
 }
 .ziehharmonika .collapseIcon {
