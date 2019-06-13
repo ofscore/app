@@ -82,3 +82,26 @@ a {
     text-decoration: none;
     font-weight: 700;
 }
+
+.canaltablo {
+    background: #fff;
+    text-align: left;
+    border-radius: 5px;
+    padding: 0px 15px;
+    cursor: pointer;
+    margin-top: 0;
+    margin-bottom: 9px;
+    padding-left: 10px;
+    transition: 0.25s all;
+    position: relative;
+    margin-top: 10px;
+    line-height: 1.42857143;
+    color: rgb(60,75,123);
+    font-family: Cairo;
+    font-weight: 700;
+    font-size: 15px;
+    border-bottom: none;
+    margin-bottom: 6px;
+    box-shadow: 0 1px 9px -6px;
+    font-family: 'Hind Guntur', sans-serif;
+}
